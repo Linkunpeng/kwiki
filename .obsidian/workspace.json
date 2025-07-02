@@ -31,10 +31,14 @@
             "id": "bee159915199741a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Kernel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kernel"
             }
           }
         ]
@@ -184,8 +188,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b2079475597805d",
+  "active": "44033c090826f0dc",
   "lastOpenFiles": [
+    "Linux/Kernel.md",
+    "Linux/Wayland.md",
+    "Linux/WindowManager.md",
+    "Linux/udev.md",
+    "Linux/PKGBUILD.md",
+    "Linux/Pacman.md",
+    "Linux/Hyprland.md",
+    "Linux/DTS.md",
+    "Linux/glibc.md",
+    "Linux/Driver.md",
+    "Linux/DRM.md",
+    "Linux/DKMS.md",
+    "Linux/Distribution.md",
+    "Linux/DisplayManager.md",
+    "Linux/Bootloader.md",
+    "Linux/ArchLinux.md",
+    "Linux/ALSA.md",
+    "Linux/ACPI.md",
+    "日本語/こんにちは、林です.md",
     "README.md",
     "AI/Deeplearn.md",
     "README.md.md",
